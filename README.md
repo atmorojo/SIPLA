@@ -3,6 +3,6 @@ Sistem Informasi Pengawas sekoLA. Masih dalam tahap pengajuan awal ke user, dan 
 
 - [x] Database sekolah
 - [x] Database guru
-- [] Kriteria penilaian
-- [] Nilai
-- [] Rekap
+- [ ] Kriteria penilaian
+- [ ] Nilai
+- [ ] Rekap
